@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: beige ;
+	text-align: left;
+}
+
+h1 {
+	color:blue;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+#Firstp {
+	color: burlywood;
+	line-height: 10;
+}
+
+p {
+	font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif'
+}
+
+.blue {
+	color: blue
+}
+
+.red {
+	color: indianred
+}
